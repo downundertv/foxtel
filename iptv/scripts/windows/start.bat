@@ -1,4 +1,4 @@
-cd C:\location_of_downloaded_iptv_folder
+cd C:\Users\Brett Riley\Desktop\IPTV\foxtel\foxtel
 
 if not exist venv\ (
     py -m venv venv
