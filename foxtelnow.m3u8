@@ -1,0 +1,521 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/Foxtel/epg.xml.gz"
+
+#EXTINF:-0 channel-id="101" group-title="Entertainment;Foxtel Go" tvg-chno="101" tvg-id="F1S" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=3861118:206:CHANNEL:IMAGE:png&w=400#Foxtel%20One|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Foxtel One" , Foxtel One
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_263963&SessionId=0608667A7474A7A7&Ticket=1B9C73EF7ED32BEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel019/channel019_mcs.isml/playlist_medium.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=1918899384&ads.auapp=foxtelgo&ads.auchtag=F1S&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=aced0671-84b2-4afc-819d-d127c18e5c8a&hdnts=exp=1736191933~hmac=bc73050058cab71115055e3e0c6e5c1ac017e5d3c96aa4cc77e87fc3aa23273c
+
+#EXTINF:-1 channel-id="105" group-title="Entertainment;Foxtel Go" tvg-chno="105" tvg-id="UKT" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=256570:206:CHANNEL:IMAGE:png&w=400#UKTV|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="UKTV" , UKTV
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_256570&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel042/channel042_mcs.isml/playlist_high.mpd?hdnts=exp=1736191953~hmac=b2c882e872fcfdc9f2a00dba1f7b9a8740cb2af955c32247c0952df20b511804
+
+#EXTINF:-1 channel-id="111" group-title="Entertainment;Foxtel Go" tvg-chno="111" tvg-id="ARN" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=263960:206:CHANNEL:IMAGE:png&w=400#Arena|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Arena" , Arena
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_263960&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel010/channel010_mcs.isml/playlist_high.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=1857105153&ads.auapp=foxtelgo&ads.auchtag=ARN&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=91e0b87c-5591-4ee6-add7-111dfbeb2592&hdnts=exp=1736191974~hmac=77757fee3c79c949434d200013068dc5469964e097cf24888df5392722e96ea9
+
+#EXTINF:-1 channel-id="113" group-title="Entertainment;Foxtel Go" tvg-chno="113" tvg-id="IOI" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=3889309:206:CHANNEL:IMAGE:png&w=400#Crime|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Crime" , Crime
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_518518&SessionId=0608667A7474A7A7&Ticket=1B9C73EF7ED32BEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel093/channel093_mcs.isml/playlist_medium.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=1095792661&ads.auapp=foxtelgo&ads.auchtag=IOI&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=9ab5a6c5-24c7-4363-a511-f815f8cb7eaa&hdnts=exp=1736191994~hmac=7c3cf3da79e1fe0ec9b08a06de99cff550cba9a68e5b12b3c567335d8f003e81
+
+#EXTINF:-1 channel-id="114" group-title="Entertainment;Foxtel Go" tvg-chno="114" tvg-id="HIT" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=3889324:206:CHANNEL:IMAGE:png&w=400#Comedy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Comedy" , Comedy
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_111111&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel094/channel094_mcs.isml/playlist_high.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=1107985959&ads.auapp=foxtelgo&ads.auchtag=HIT&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=35447f60-0731-40a0-b21b-c03e7c81b5bf&hdnts=exp=1736192015~hmac=ac9648e54a52c4220cb150906d07485eb618934e9ebc4b2cf1b10454b29680e7
+
+#EXTINF:-1 channel-id="115" group-title="Entertainment;Foxtel Go" tvg-chno="115" tvg-id="HAR" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=2119802:206:CHANNEL:IMAGE:png&w=400#Docos%20HD|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Famous HD" , Famous HD
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_264104&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel072/channel072_mcs.isml/playlist_high.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=1146319721&ads.auapp=foxtelgo&ads.auchtag=HAR&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=2c176b64-ef42-4eb9-a53a-ccc97c2ff453&hdnts=exp=1736192036~hmac=514b9931fb13e2b7e51e49fb0b5cd7a17feef3e62749ca5703f3298e304f17c3
+
+#EXTINF:-1 channel-id="117" group-title="Entertainment;Foxtel Go" tvg-chno="117" tvg-id="FKC" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=612342:206:CHANNEL:IMAGE:png&w=400#Classics|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Classics" , Classics
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_117117&SessionId=0608667A7474A7A7&Ticket=1B9C73EF7ED32BEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel085/channel085_mcs.isml/playlist_medium.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=2074705538&ads.auapp=foxtelgo&ads.auchtag=FKC&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=87e5810b-c244-4ef7-a025-1c3e2450c286&hdnts=exp=1736192056~hmac=04802735c2e921771758a619c70782d74b1eee921079e854788cd3149be4c0ce
+
+#EXTINF:-1 channel-id="118" group-title="Entertainment;Foxtel Go" tvg-chno="118" tvg-id="FSU" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=4448299:206:CHANNEL:IMAGE:png&w=400#Sleuth|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="British" , British
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_264094&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel046/channel046_mcs.isml/playlist_high.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=1664968819&ads.auapp=foxtelgo&ads.auchtag=FSU&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=05490610-f85b-42f4-b509-60b241403d1d&hdnts=exp=1736192077~hmac=409992080970f0e8c04feb5b8b6b795ce18e245c29f199d7d826ef72e31c7680
+
+#EXTINF:-1 channel-id="119" group-title="Entertainment;Foxtel Go" tvg-chno="119" tvg-id="DPS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=766500:206:CHANNEL:IMAGE:png&w=400#BBC%20First|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="DocPlay" , DocPlay
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_675257&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel036/channel036_mcs.isml/playlist_high.mpd?hdnts=exp=1736192098~hmac=2817b4692a67a9d03cc01294626411074d315d62063e28c856990ef5dfed5bcb
+
+#EXTINF:-1 channel-id="121" group-title="Entertainment;Foxtel Go" tvg-chno="121" tvg-id="RLS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=11231402:206:CHANNEL:IMAGE:png&w=400#Real%20Life|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Real Life" , Real Life
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_517517&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel092/channel092_mcs.isml/playlist_high.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=1225572464&ads.auapp=foxtelgo&ads.auchtag=RLS&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=24a1086d-ff49-460a-a38f-264b605eb548&hdnts=exp=1736192119~hmac=5b58db95433322c17a2fdf52c70919954f0dfb266c562c892fcad4b1c93a2324
+
+#EXTINF:-1 channel-id="123" group-title="Entertainment;Foxtel Go" tvg-chno="123" tvg-id="DTA" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=506664:206:CHANNEL:IMAGE:png&w=400#TLC|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="TLC" , TLC
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_506664&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel064/channel064_mcs.isml/playlist_high.mpd?hdnts=exp=1736192139~hmac=e6ad8a2cac106b31217443f9f692bf7d24f5a4aebe131b998ace6f8fa3f3a36d
+
+#EXTINF:-1 channel-id="125" group-title="Entertainment;Foxtel Go" tvg-chno="125" tvg-id="FOD" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264109:206:CHANNEL:IMAGE:png&w=400#LifeStyle%20Food|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="LifeStyle Food" , LifeStyle Food
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_264109&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel030/channel030_mcs.isml/playlist_high.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=1373429424&ads.auapp=foxtelgo&ads.auchtag=FOD&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=0a1cb44a-a018-4d97-8bca-b0d87842cc74&hdnts=exp=1736192161~hmac=11c24fb500e47a0840ddb734e4523c34ee9986c11298cdd0645d2dddb96db611
+
+#EXTINF:-1 channel-id="126" group-title="Entertainment;Foxtel Go" tvg-chno="126" tvg-id="LHO" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=465979:206:CHANNEL:IMAGE:png&w=400#LifeStyle%20Home|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="LifeStyle Home" , LifeStyle Home
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_465979&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel020/channel020_mcs.isml/playlist_high.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=1455362185&ads.auapp=foxtelgo&ads.auchtag=LHO&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=ef112e2e-2f26-451e-aba5-f8e0f1861247&hdnts=exp=1736192181~hmac=c5e091fdf32544bc2bcdfbf59e61270171f58eb169d366dd9eeba43303a80ce3
+
+#EXTINF:-1 channel-id="128" group-title="Entertainment;Foxtel Go" tvg-chno="128" tvg-id="TRS" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=16695914:206:CHANNEL:IMAGE:png&w=150&appID=GO2" tvg-name="Movies Summer" , Movies Summer
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_663645&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel035/channel035_mcs.isml/playlist_high.mpd?hdnts=exp=1736192203~hmac=5b8485be7b8726886b8e858fb55e38a83c2d548f9f4dc1572280d80f691c0885
+
+#EXTINF:-1 channel-id="130" group-title="Entertainment;Foxtel Go" tvg-chno="130" tvg-id="HST" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264100:206:CHANNEL:IMAGE:png&w=400#HISTORY|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Real History" , Real History
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_264100&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel044/channel044_mcs.isml/playlist_high.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=1005180072&ads.auapp=foxtelgo&ads.auchtag=HST&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=fe4abb13-9322-4fd8-93f1-6839d47cb716&hdnts=exp=1736192224~hmac=03ecb1ed3164f854f248b0d0cf5af40ba24c16c7f24dd54fc72b03fee3d47f0f
+
+#EXTINF:-1 channel-id="133" group-title="Entertainment;Foxtel Go" tvg-chno="133" tvg-id="DIS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=263959:206:CHANNEL:IMAGE:png&w=400#Discovery%20Channel|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Discovery Channel" , Discovery Channel
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_263959&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel005/channel005_mcs.isml/playlist_high.mpd?hdnts=exp=1736192245~hmac=9b7b4616de1f64fc68014771b4291b8ba2fc66468fd8672c1375bc4ca3dcc7fa
+
+#EXTINF:-1 channel-id="135" group-title="Entertainment;Foxtel Go" tvg-chno="135" tvg-id="CIN" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264099:206:CHANNEL:IMAGE:png&w=400#CRIME%2BINVESTIGATION|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Real Crime" , Real Crime
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_264099&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel084/channel084_mcs.isml/playlist_high.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=1547444489&ads.auapp=foxtelgo&ads.auchtag=CIN&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=fa861d69-25a9-4a39-a577-168e8a5f2460&hdnts=exp=1736192265~hmac=92d0e781864efee6283d44512349e3a5c53ac767fecc93d289ffe3adc17c87ac
+
+#EXTINF:-1 channel-id="136" group-title="Entertainment;Foxtel Go" tvg-chno="136" tvg-id="DID" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=4700474:206:CHANNEL:IMAGE:png&w=400#Investigation%20Discovery|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Investigation Discovery" , Investigation Discovery
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_506669&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel060/channel060_mcs.isml/playlist_high.mpd?hdnts=exp=1736192286~hmac=cb41934ca2280af2be73f289d3f3e13e4a63897591de8cfce27c90a3ea774854
+
+#EXTINF:-1 channel-id="141" group-title="Entertainment;Foxtel Go" tvg-chno="141" tvg-id="ANI" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=506663:206:CHANNEL:IMAGE:png&w=400#Animal%20Planet|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Animal Planet" , Animal Planet
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_506663&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel055/channel055_mcs.isml/playlist_high.mpd?hdnts=exp=1736192308~hmac=df265ab7ec87331d6eb987a8ea33a6cb14229672a31d773c87ef625fe5597898
+
+#EXTINF:-1 channel-id="143" group-title="Entertainment;Foxtel Go" tvg-chno="143" tvg-id="DIT" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=504387:206:CHANNEL:IMAGE:png&w=400#Discovery%20Turbo|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Discovery Turbo" , Discovery Turbo
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504387&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel003/channel003_mcs.isml/playlist_high.mpd?hdnts=exp=1736192328~hmac=5ff033e8a55308f4e7b9492e1bec30dc72f24c6f5f750e76127efdaf618c6aa4
+
+#EXTINF:-1 channel-id="144" group-title="Entertainment;Foxtel Go" tvg-chno="144" tvg-id="WWS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=10479931:206:CHANNEL:IMAGE:png&w=400#WWE|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="WWE" , WWE
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_256559&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel001/channel001_mcs.isml/playlist_high.mpd?hdnts=exp=1736192349~hmac=3225d15936b0b1996d8db861cabbb15041bd86977fdfcfc924a41a94d940d636
+
+#EXTINF:-1 channel-id="150" group-title="Entertainment;Foxtel Go" tvg-chno="150" tvg-id="BXS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=823997:206:CHANNEL:IMAGE:png&w=400#BoxSets|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="BoxSets" , BoxSets
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_216216&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel087/channel087_mcs.isml/playlist_high.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=418633965&ads.auapp=foxtelgo&ads.auchtag=BXS&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=619ea882-5477-4549-8837-7f96a26e26bb&hdnts=exp=1736192371~hmac=0a337c8bc6755bf6ed892d7c0c63d5833e4e233592983466a6f4f5892503400e
+
+#EXTINF:-1 channel-id="176" group-title="Entertainment;Foxtel Go" tvg-chno="176" tvg-id="TVS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542988:206:CHANNEL:IMAGE:png&w=400#TVSN|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="TVSN" , TVSN
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_542988&SessionId=0608667A7474A7A7&Ticket=1B9C73EF7ED32BEA
+
+https://foxteldashlive01.akamaized.net/live/channel063/channel063_mcs.isml/playlist_medium.mpd?hdnts=exp=1736192392~hmac=3a17e3044c8edcf2381689c86a0e31b9785f7c982472b9491d1bec3de26f60e9
+
+#EXTINF:-1 channel-id="182" group-title="Entertainment;Foxtel Go" tvg-chno="182" tvg-id="ACC" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=590399:206:CHANNEL:IMAGE:png&w=400#GOOD.|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="GOOD" , GOOD
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_264271&SessionId=0608667A7474A7A7&Ticket=1B9C73EF7ED32BEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel061/channel061_mcs.isml/playlist_medium.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=1388340915&ads.auapp=foxtelgo&ads.auchtag=ACC&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=36134943-a91e-4bf0-9da4-0ad7761c3c58&hdnts=exp=1736192413~hmac=c0b95c72720306c8f35523cfd97d4e5eac450389b224d1bbae251ebc5ab641e2
+
+#EXTINF:-1 channel-id="401" group-title="Movies;Foxtel Go" tvg-chno="401" tvg-id="SHO" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527476:206:CHANNEL:IMAGE:png&w=400#Movies%20Premiere|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Premiere" , Movies Premiere
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_527476&SessionId=0608667A7474A7A7&Ticket=1B9C73EF7ED32BEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel031/channel031_mcs.isml/playlist_medium.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=1199467148&ads.auapp=foxtelgo&ads.auchtag=SHO&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=b1c861a0-8095-4487-acc2-a22d97203b5f&hdnts=exp=1736192434~hmac=5863f4aa0d7bd9f82aa217c0211d2e14e1f94f3b924956cf04f434d24027cc08
+
+#EXTINF: -1 channel-id="402" group-title="Movies;Foxtel Go" tvg-chno="402" tvg-id="MVS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=1321675:206:CHANNEL:IMAGE:png&w=400#Movies%20Hits|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Hits" , Movies Hits
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_400400&SessionId=0608667A7474A7A7&Ticket=1B9C73EF7ED32BEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel048/channel048_mcs.isml/playlist_medium.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=889364770&ads.auapp=foxtelgo&ads.auchtag=MVS&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=2d56c231-cc2a-45af-a7ac-8481cc1d84c1&hdnts=exp=1736192455~hmac=5068f72f68a8d00890c3a9f963208e22d368f3863c522b04f67be019a58eb09e
+
+#EXTINF:-1 channel-id="403" group-title="Movies;Foxtel Go" tvg-chno="403" tvg-id="SHF" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527478:206:CHANNEL:IMAGE:png&w=400#Movies%20Family|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Family" , Movies Family
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_527478&SessionId=0608667A7474A7A7&Ticket=1B9C73EF7ED32BEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel033/channel033_mcs.isml/playlist_medium.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=1706935730&ads.auapp=foxtelgo&ads.auchtag=SHF&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=a4cba5f9-27fc-4bea-be08-bb59bdfb2a56&hdnts=exp=1736192476~hmac=c4f1e25a44957bba1bf438f2a7e3c567fa17a5f753d9d38b44ab44452ed41e06
+
+#EXTINF: -1 channel-id="405" group-title="Movies;Foxtel Go" tvg-chno="405" tvg-id="SHA" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527477:206:CHANNEL:IMAGE:png&w=400#Movies%20Action|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Action" , Movies Action
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_527477&SessionId=0608667A7474A7A7&Ticket=1B9C73EF7ED32BEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel032/channel032_mcs.isml/playlist_medium.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=1384236765&ads.auapp=foxtelgo&ads.auchtag=SHA&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=73696b54-9cdd-4d93-b958-b8f780efdd48&hdnts=exp=1736192498~hmac=7d21ca5082f97769e6977fbd7e82031785fae710872b837399b000db408203b2
+
+#EXTINF:-1 channel-id="406" group-title="Movies;Foxtel Go" tvg-chno="406" tvg-id="SHY" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527481:206:CHANNEL:IMAGE:png&w=400#Movies%20Comedy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Comedy" , Movies Comedy
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_527481&SessionId=0608667A7474A7A7&Ticket=1B9C73EF7ED32BEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel050/channel050_mcs.isml/playlist_medium.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=93528029&ads.auapp=foxtelgo&ads.auchtag=SHY&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=60ad48e4-de03-4af3-9788-245c4eb7aa4e&hdnts=exp=1736192519~hmac=550a2026e4eaa5907c54592e8e7cbe24930b2e1c6e2bc35e5a6f7a6d942bfbe4
+
+#EXTINF: -1 channel-id="408" group-title="Movies;Foxtel Go" tvg-chno="408" tvg-id="SHD" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527482:206:CHANNEL:IMAGE:png&w=400#Movies%20Romance|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Romance" , Movies Romance
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_527482&SessionId=0608667A7474A7A7&Ticket=1B9C73EF7ED32BEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel053/channel053_mcs.isml/playlist_medium.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=1831362517&ads.auapp=foxtelgo&ads.auchtag=SHD&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=f0e7b348-6b10-466e-b5ff-86202acb736c&hdnts=exp=1736192541~hmac=8d7cfe35ecf2bf243693307f163a71eb8c86fc1b8848c6ff168e9f5134af2a7a
+
+#EXTINF:-1 channel-id="409" group-title="Movies;Foxtel Go" tvg-chno="409" tvg-id="MO6" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527480:206:CHANNEL:IMAGE:png&w=400#Movies%20Drama|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Drama" , Movies Drama
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_527480&SessionId=0608667A7474A7A7&Ticket=1B9C73EF7ED32BEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel052/channel052_mcs.isml/playlist_medium.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=461482957&ads.auapp=foxtelgo&ads.auchtag=MO6&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=8589f91a-04f9-4933-af35-ad1548cea095&hdnts=exp=1736192563~hmac=acc94b021b29a0781d583449660cabeb4a0c548d8f03956a1492b4f4d3fde62e
+
+#EXTINF: -1 channel-id="410" group-title="Movies;Foxtel Go" tvg-chno="410" tvg-id="GRR" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=2337483:206:CHANNEL:IMAGE:png&w=400#Movies%20Greats|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Greats" , Movies Greats
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_543177&SessionId=0608667A7474A7A7&Ticket=1B9C73EF7ED32BEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel054/channel054_mcs.isml/playlist_medium.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=975545956&ads.auapp=foxtelgo&ads.auchtag=GRR&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=0a7b5aeb-8584-4de7-96d8-033a454d023a&hdnts=exp=1736192583~hmac=09366a6cc0e835ba05e53edf3bf0da36f402571eecb71917386b3401d7d68e36
+
+#EXTINF:-1 channel-id="411" group-title="Movies;Foxtel Go" tvg-chno="411" tvg-id="LMS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=5645424:206:CHANNEL:IMAGE:png&w=400#LMN|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="LMN" , LMN
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_264119&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel025/channel025_mcs.isml/playlist_high.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=972591070&ads.auapp=foxtelgo&ads.auchtag=LMS&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=80684740-4fd7-40fb-b0d7-abe23ce6a1df&hdnts=exp=1736192605~hmac=31111805d1d6daea269257afef02e2c8504d94680238151b5b8910d07ee36ecf
+
+#EXTINF:-1 channel-id="500" group-title="Sport;Foxtel Go" tvg-chno="500" tvg-id="FSN" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=256571:206:CHANNEL:IMAGE:png&w=400#FOX%20SPORTS%20NEWS|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX SPORTS NEWS" , FOX SPORTS NEWS
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_233233&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel118/channel118_mcs.isml/playlist_high.mpd?hdnts=exp=1736192626~hmac=bdb710169fb92e2a3dcbbdb5a8fe0fbb69d86e33ae750672441e8ac73ddb0569
+
+#EXTINF:-1 channel-id="501" group-title="Sport;Foxtel Go" tvg-chno="501" tvg-id="FS1" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542982:206:CHANNEL:IMAGE:png&w=400#FOX%20CRICKET|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX CRICKET" , FOX CRICKET
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_501501&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel091/channel091_mcs.isml/playlist_high.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=1594124103&ads.auapp=foxtelgo&ads.auchtag=FS1&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=a2c25150-9f89-4c63-b4f4-53952d3bb8ee&hdnts=exp=1736192647~hmac=812d845208175fba984716979816a9fd1be8c7d180d7be59389a8792a0ac4f58
+
+#EXTINF:-1 channel-id="502" group-title="Sport;Foxtel Go" tvg-chno="502" tvg-id="SP2" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542983:206:CHANNEL:IMAGE:png&w=400#FOX%20League|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX League" , FOX League
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_501502&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel101/channel101_mcs.isml/playlist_high.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=844900296&ads.auapp=foxtelgo&ads.auchtag=SP2&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=73056476-20b5-4fb3-a4d8-722ea13001d4&hdnts=exp=1736192668~hmac=73c554226d093168f731cde8fefb793f136cf344de9c9bc6170fc05994b6b65c
+
+#EXTINF:-1 channel-id="503" group-title="Sport;Foxtel Go" tvg-chno="503" tvg-id="FS3" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20503|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Fox Sports 503" , Fox Sports 503
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_501503&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel111/channel111_mcs.isml/playlist_high.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=568989759&ads.auapp=foxtelgo&ads.auchtag=FS3&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=26c3edb1-56a1-4b61-a6d6-39b2c47bcc7d&hdnts=exp=1736192690~hmac=e1f3033930a8bff915f431ddcf2a4265e7b906285d4a8e3f33a233801efc5dd9
+
+#EXTINF:-1 channel-id="504" group-title="Sport;Foxtel Go" tvg-chno="504" tvg-id="FAF" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&w=400#FOX%20Footy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX Footy" , FOX Footy
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel089/channel089_mcs.isml/playlist_high.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=460231291&ads.auapp=foxtelgo&ads.auchtag=FAF&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=0845a977-b1cb-4ded-8970-18d8aa701a21&hdnts=exp=1736192712~hmac=778df78e307f0a78587fb3f4e2739f734fb99ce6c641d0f7dc0ef77b82260465
+
+#EXTINF:-1 channel-id="505" group-title="Sport;Foxtel Go" tvg-chno="505" tvg-id="FSP" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264274:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20505|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Fox Sports 505" , Fox Sports 505
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_236236&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel119/channel119_mcs.isml/playlist_high.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=613861265&ads.auapp=foxtelgo&ads.auchtag=FSP&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=ad5d46bc-03e8-4f54-8852-77c93df179a2&hdnts=exp=1736192733~hmac=32d3e77953a2b07543142a9d90049ac06a5844e1e07acd58898be7139f84981f
+
+#EXTINF:-1 channel-id="506" group-title="Sport;Foxtel Go" tvg-chno="506" tvg-id="SPS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=504388:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20506|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Fox Sports 506" , Fox Sports 506
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_501504&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel120/channel120_mcs.isml/playlist_high.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=976700185&ads.auapp=foxtelgo&ads.auchtag=SPS&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=5820c6b3-42be-49e1-86d3-91c24c868230&hdnts=exp=1736192755~hmac=dfce63dc0bd09fbba8aa60fac2d4d00d99bb646e2d400e2ea48f7dc428a7e6d9
+
+#EXTINF:-1 channel-id="507" group-title="Sport;Foxtel Go" tvg-chno="507" tvg-id="FSS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=1704826:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20More%2B|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Fox Sports More" , Fox Sports More
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_507507&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel098/channel098_mcs.isml/playlist_high.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=737628581&ads.auapp=foxtelgo&ads.auchtag=FSS&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=2d5a6f71-ca6e-45f8-973c-8b5669e80f1a&hdnts=exp=1736192776~hmac=9ebbd6f85e8c55510e78045767efdb30ba4c2b1e4bfb6eab666adf67ed5b3318
+
+#EXTINF:-1 channel-id="509" group-title="Sport;Foxtel Go" tvg-chno="509" tvg-id="ESP" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=570991:206:CHANNEL:IMAGE:png&w=400#ESPN|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="ESPN" , ESPN
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_570991&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel074/channel074_mcs.isml/playlist_high.mpd?hdnts=exp=1736192797~hmac=ec980d74119885315eeb03dd5447a74d8cdd527d87ffe445027168700772818d
+
+#EXTINF:-1 channel-id="510" group-title="Sport;Foxtel Go" tvg-chno="510" tvg-id="ES2" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=570992:206:CHANNEL:IMAGE:png&w=400#ESPN2|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="ESPN2" , ESPN2
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_570992&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel075/channel075_mcs.isml/playlist_high.mpd?hdnts=exp=1736192819~hmac=5f4175f10b505ef1a3908eec3d0d33d5147dbac5c8eee9b73bcb66bdf6726f81
+
+#EXTINF:-1 channel-id="526" group-title="Sport;Foxtel Go" tvg-chno="526" tvg-id="SRA" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=6024394:206:CHANNEL:IMAGE:png&w=400#Sky%20Racing%201|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Sky Racing 1" , Sky Racing 1
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_263949&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel006/channel006_mcs.isml/playlist_high.mpd?hdnts=exp=1736192841~hmac=5771d84bf1b13b421fc906813c425325b0c5416725d24eed39895ea3610275c8
+
+#EXTINF:-1 channel-id="527" group-title="Sport;Foxtel Go" tvg-chno="527" tvg-id="SR2" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=6024398:206:CHANNEL:IMAGE:png&w=400#Sky%20Racing%202|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Sky Racing 2" , Sky Racing 2
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_256571&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel007/channel007_mcs.isml/playlist_high.mpd?hdnts=exp=1736192862~hmac=30c058115e485c0b8762794d38ae01963e2c82f8db70b35f4be49a62b344ac55
+
+#EXTINF:-1 channel-id="528" group-title="Sport;Foxtel Go" tvg-chno="528" tvg-id="SRW" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=6024401:206:CHANNEL:IMAGE:png&w=400#Sky%20Racing%20Thoroughbred%20Central|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Sky Racing Thoroughbred Central" , Sky Racing Thoroughbred Central
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_263951&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel016/channel016_mcs.isml/playlist_high.mpd?hdnts=exp=1736192883~hmac=521c779a6be6ce30e9db963b153b5cd79b7d2c86e475ce122e2100f861a9ff29
+
+#EXTINF:-1 channel-id="529" group-title="Sport;Foxtel Go" tvg-chno="529" tvg-id="RTV" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=12543813:206:CHANNEL:IMAGE:png&w=400#RACING.COM|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="RACING" , RACING
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_511511&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel099/channel099_mcs.isml/playlist_high.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=48140327&ads.auapp=foxtelgo&ads.auchtag=RTV&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=4a7abcc8-b1fb-41df-9be8-1e9ce0ef9224&hdnts=exp=1736192905~hmac=089b9682925a4f1e08dc2d39eaeafc7165b89b2803c3da700c21868adc2a0a0a
+
+#EXTINF:-1 channel-id="600" group-title="News & Weather;Foxtel Go" tvg-chno="600" tvg-id="SKY" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=256559:206:CHANNEL:IMAGE:png&w=400#SKY%20NEWS|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="SKY NEWS" , SKY NEWS
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_256559&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel001/channel001_mcs.isml/playlist_high.mpd?hdnts=exp=1736192927~hmac=e19468e2f876994f3f90c72efa249c4d09b010b8ab24a567d89b436fca00fca7
+
+#EXTINF:-1 channel-id="601" group-title="News & Weather;Foxtel Go" tvg-chno="601" tvg-id="FXW" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=256567:206:CHANNEL:IMAGE:png&w=400#SKY%20Weather|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="SKY Weather" , SKY Weather
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_256567&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel014/channel014_mcs.isml/playlist_high.mpd?hdnts=exp=1736192949~hmac=f0b2a1c654b290663230523d1fac4d157a4484b0e760c9b05b133234896eee8e
+
+#EXTINF:-1 channel-id="603" group-title="News & Weather;Foxtel Go" tvg-chno="603" tvg-id="ASP" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=2427883:206:CHANNEL:IMAGE:png&w=400#Sky%20News%20Extra|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Sky News Extra" , Sky News Extra
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_596479&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel088/channel088_mcs.isml/playlist_high.mpd?hdnts=exp=1736192970~hmac=8d19529d317b8ac5c30f76e5eace2f982c4c565937bcbdf295780adc1113bd5d
+
+#EXTINF:-1 channel-id="604" group-title="News & Weather;Foxtel Go" tvg-chno="604" tvg-id="SUK" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=543179:206:CHANNEL:IMAGE:png&w=400#SKY%20NEWS%20UK|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="SKY NEWS UK" , SKY NEWS UK
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_605605&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel023/channel023_mcs.isml/playlist_high.mpd?hdnts=exp=1736192992~hmac=8e02326bf325e0f0e4b8493296ecec88c3973b2497579ca3031842cd301556bb
+
+#EXTINF:-1 channel-id="608" group-title="News & Weather;Foxtel Go" tvg-chno="608" tvg-id="FNC" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542987:206:CHANNEL:IMAGE:png&w=400#FOX%20News|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX News" , FOX News
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_604604&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel095/channel095_mcs.isml/playlist_high.mpd?hdnts=exp=1736193013~hmac=09bbd52240d63f13a7a8ab0309c8ee7b12e1837e37fa31acde3ed02f989df2ca
+
+#EXTINF:-1 channel-id="609" group-title="News & Weather;Foxtel Go" tvg-chno="609" tvg-id="CNN" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264106:206:CHANNEL:IMAGE:png&w=400#CNN%20International|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="CNN International" , CNN International
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_264106&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel058/channel058_mcs.isml/playlist_high.mpd?hdnts=exp=1736193037~hmac=e486fb23e109a0cd1a5322d1e9028abd2436dcf6ea4fb6998269aa524d7725b3
+
+#EXTINF:-1 channel-id="612" group-title="News & Weather;Foxtel Go" tvg-chno="612" tvg-id="MSN" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=11348234:206:CHANNEL:IMAGE:png&w=400#MSNBC|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="MSNBC" , MSNBC
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_256560&SessionId=0608667A7474A7A7&Ticket=1B9C73EF7ED32BEA
+
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel015/channel015_mcs.isml/playlist_medium.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=1562899202&ads.auapp=foxtelgo&ads.auchtag=MSN&ads.audev=pcbrowser%2Fwindows&ads.idm=02&ads.location=nsw&ads.idfx_hashed=cd1c15838f9cfaf65616027109b26a03&ads.account_hashed=2c2be4e0292410dbf872057a3c8caafd&ads.manufacturer=Google&ads.gizmo_type=pcbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=WINDOWS&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.dph=986674225a898021ed97aac11799c124cd1c15838f9cfaf65616027109b26a03&ads.ip=103.225.230.254&ads.userAgent=Mozilla%252F5.0%2520%2528Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F131.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=6061&ads.tzlocale=AU-WA&ads.npa=0&aws.sessionId=1635a140-8ed4-423a-8506-a28ff73707a3&hdnts=exp=1736193058~hmac=50aff1e3d85f70a6d6e74f9e28f5403fa652116bb01dd74bef8cdf4ba3a65132
+
+#EXTINF:-1 channel-id="620" group-title="News & Weather;Foxtel Go" tvg-chno="620" tvg-id="CNB" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=766501:206:CHANNEL:IMAGE:png&w=400#CNBC|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="CNBC" , CNBC
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_766501&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel086/channel086_mcs.isml/playlist_high.mpd?hdnts=exp=1736193080~hmac=12314e3fef83304f854ca58a366e46646f18fa95cc446160adc994b9c642ea8a
+
+#EXTINF:-1 channel-id="621" group-title="News & Weather;Foxtel Go" tvg-chno="621" tvg-id="BLM" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=4329941:206:CHANNEL:IMAGE:png&w=400#Bloomberg%20Television|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Bloomberg Television" , Bloomberg Television
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_709531&SessionId=0608667A7474A7A7&Ticket=1B9C73EF7ED32BEA
+
+https://foxteldashlive01.akamaized.net/live/channel047/channel047_mcs.isml/playlist_medium.mpd?hdnts=exp=1736193101~hmac=930849c8903fe528aa90ee1cb19160e33e354c70521d1df424130e7956f90da7
+
+#EXTINF:-1 channel-id="656" group-title="News & Weather;Foxtel Go" tvg-chno="656" tvg-id="NHK" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=4962087:206:CHANNEL:IMAGE:png&w=400#NHK%20World|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="NHK World" , NHK World
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_506666&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel059/channel059_mcs.isml/playlist_high.mpd?hdnts=exp=1736193123~hmac=a73b69a484f546cb1738c9ea99bee9b8baf99271ab1440667e396495f1a99989
+
+#EXTINF:-1 channel-id="713" group-title="Kids & Family;Foxtel Go" tvg-chno="713" tvg-id="CNE" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=263952:206:CHANNEL:IMAGE:png&w=400#Cartoon%20Network|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Cartoon Network" , Cartoon Network
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_263952&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel009/channel009_mcs.isml/playlist_high.mpd?hdnts=exp=1736193144~hmac=87097b209b2fd0a773317a843ce493db67d366603de3bb26978cb526075e6114
+
+#EXTINF:-1 channel-id="715" group-title="Kids & Family;Foxtel Go" tvg-chno="715" tvg-id="BOO" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=263953:206:CHANNEL:IMAGE:png&w=400#Boomerang|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Boomerang" , Boomerang
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_263953&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel021/channel021_mcs.isml/playlist_high.mpd?hdnts=exp=1736193167~hmac=ce88a5a5277e32080c67ab8592c627cf4d098fa2f7b624f450d1d34a1d17ab09
+
+#EXTINF:-1 channel-id="717" group-title="Kids & Family;Foxtel Go" tvg-chno="717" tvg-id="DRM" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=7080887:206:CHANNEL:IMAGE:png&w=400#DreamWorks|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="DreamWorks" , DreamWorks
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_108108&SessionId=0608667A7474A7A7&Ticket=1B9C73EF7ED32BEA
+
+https://foxteldashlive01.akamaized.net/live/channel108/channel108_mcs.isml/playlist_medium.mpd?hdnts=exp=1736193188~hmac=ea3d029aa81f816289f6b707c28498680b0c3e5685fb6d5c73b97c461d87a298
+
+#EXTINF:-1 channel-id="801" group-title="Music;Foxtel Go" tvg-chno="801" tvg-id="TMF" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=1585034:206:CHANNEL:IMAGE:png&w=400#MTV%20Hits|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="MTV Hits" , MTV Hits
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_803803&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel097/channel097_mcs.isml/playlist_high.mpd?hdnts=exp=1736193214~hmac=15145ded67b146b33129479f3d50b8d58ada9361a085d4339a361275e9bcebab
+
+#EXTINF:-1 channel-id="802" group-title="Music;Foxtel Go" tvg-chno="802" tvg-id="NMU" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=5411777:206:CHANNEL:IMAGE:png&w=400#Nick%20Music|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Nick Music" , Nick Music
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_264120&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel026/channel026_mcs.isml/playlist_high.mpd?hdnts=exp=1736193237~hmac=176f4fc51f20a0e1a0ed1018133d17f4a6da99c0df9baacd60eda90d5c613099
+
+#EXTINF:-1 channel-id="803" group-title="Music;Foxtel Go" tvg-chno="803" tvg-id="VH1" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=1585033:206:CHANNEL:IMAGE:png&w=400#Club%20MTV|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Club MTV" , Club MTV
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_804804&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel096/channel096_mcs.isml/playlist_high.mpd?hdnts=exp=1736193261~hmac=69ebc71286da792c6559b3885a2e9bdec1cf2ca42baf6aa37c89113262c0b2fa
+
+#EXTINF:-1 channel-id="804" group-title="Music;Foxtel Go" tvg-chno="804" tvg-id="MTC" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=5411858:206:CHANNEL:IMAGE:png&w=400#MTV%2080s|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="MTV 80s" , MTV 80s
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_264121&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel027/channel027_mcs.isml/playlist_high.mpd?hdnts=exp=1736193285~hmac=4c029560546d77c9cc21b9ab0464cd39f747be755978d577082d690b181879c6
+
+#EXTINF:-1 channel-id="805" group-title="Music;Foxtel Go" tvg-chno="805" tvg-id="CMT" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=5411893:206:CHANNEL:IMAGE:png&w=400#CMT|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="CMT" , CMT
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_542986&SessionId=9F5D08D536F1A559&Ticket=699F80AD80A1CCEA
+
+https://foxteldashlive01.akamaized.net/live/channel057/channel057_mcs.isml/playlist_high.mpd?hdnts=exp=1736193309~hmac=f483de828661c2dc73209ee3443e943623d4e52165f173d6c6037007dcc82f8a
