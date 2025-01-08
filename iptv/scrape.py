@@ -13,7 +13,7 @@ logging.basicConfig(format='%(asctime)s,%(msecs)03d %(levelname)-8s [%(filename)
                     level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-REPO_URL = os.environ.get("REPO_URL", "git@github.com:downundertv/foxtel.git")
+REPO_URL = os.environ.get("REPO_URL", "git@github.com:githubuseraccount/reponame.git")
 REPO_DIR = os.environ.get("REPO_DIR", "./gitrepo")
 CONFIG = {
     'foxtelnow': {
